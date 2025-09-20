@@ -41,7 +41,7 @@ Why use them?
 
 **Code Syntax:**
 ```js
-const person = {
+const person = { 
   first: "Ada",
   last: "Lovelace",
   _gpa: 3.8,             // underscore means "internal field" by convention
